@@ -5,8 +5,8 @@
    link: https://sci-hub.yncjkj.com/https://iopscience.iop.org/article/10.1149/1.2113713/meta
 
    model: high PH3 cause large amount of nucleation, result in the Si coating on the reactor.
-
-   <img src="C:\Users\c00614232\AppData\Roaming\Typora\typora-user-images\image-20211127104435904.png" alt="image-20211127104435904" style="zoom: 33%;" />
+   ![image](https://github.com/MingyangChen1994/paper-record/blob/main/PH3%20GR.png) 
+   
 
    link: https://sci-hub.3800808.com/https://iopscience.iop.org/article/10.1149/1.1864452/meta
 
