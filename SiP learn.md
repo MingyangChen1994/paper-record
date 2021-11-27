@@ -8,6 +8,12 @@
    ![image](https://github.com/MingyangChen1994/paper-record/blob/main/PH3%20GR.png) 
    
 
-   link: https://sci-hub.3800808.com/https://iopscience.iop.org/article/10.1149/1.1864452/meta
+   link: https://sci-hub.3800808.com/https://iopscience.iop.org/article/10.1149/1.1864452/meta   
+   A Kinetic Model for Boron and Phosphorus Doping in Silicon Epitaxy by CVD
 
    model: P atoms on the surface have a blocking effect, i.e., each P atom prevents Si growth over an area much larger than the size of the P atom.
+
+
+   other related papers: 
+   https://sci-hub.yncjkj.com/https://iopscience.iop.org/article/10.1149/1.2220890/meta
+   
